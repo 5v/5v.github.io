@@ -1,9 +1,9 @@
-+++
-title = "Pesky permalinks"
-date = "2014-04-17T15:42:40+01:00"
-categories = [ "linux" ]
-tags = [ "apache", "wordpress" ]
-+++
+---
+title: "Pesky permalinks"
+date: 2014-04-17 15:42:40 +01:00
+categories: linux
+tags: apache wordpress
+---
 After multiple minor niggles when setting up the server and WordPress, the
 thing that perplexed me most was getting the "pretty permalinks" to work, you
 know `domain.tld/year/month/post-title-rather-than-id/` instead of
