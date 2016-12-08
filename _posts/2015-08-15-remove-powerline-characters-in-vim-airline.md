@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Remove powerline characters in vim-airline"
 date: 2015-08-15 18:09:00 +01:00
 categories: linux windows

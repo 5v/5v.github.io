@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Restore HUD keybind in Unity"
 date: 2015-03-07 00:27:55 +01:00
 categories: linux

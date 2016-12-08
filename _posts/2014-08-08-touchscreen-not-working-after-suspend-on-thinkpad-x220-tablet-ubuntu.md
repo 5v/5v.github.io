@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Touchscreen not working after suspend on ThinkPad X220 Tablet (Ubuntu)"
 date: 2014-08-08 20:23:45 +01:00"
 categories: linux

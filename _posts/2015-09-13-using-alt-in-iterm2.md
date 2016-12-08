@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Using Alt in iTerm2"
 date: 2015-09-13 20:32:00 +01:00
 categories: osx

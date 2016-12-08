@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Stop Windows host intercepting Super+L in VirtualBox guest"
 date: 2014-04-20 17:07:09 +01:00
 categories: windows

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Installing Windows 7 using EFI from a USB drive"
 date: 2014-08-10 20:34:36 +01:00
 categories: windows

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Use SLIME REPL for lisp in Emacs"
 date: 2016-04-20 06:34:00 +01:00
 tag: emacs

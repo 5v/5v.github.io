@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Insert unicode characters in Emacs"
 date: 2014-04-20 22:58:36 +01:00
 categories: linux windows

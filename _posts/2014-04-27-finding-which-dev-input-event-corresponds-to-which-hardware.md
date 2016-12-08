@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Finding which /dev/input/event* corresponds to which hardware"
 date: 2014-04-27 17:40:29 +01:00
 categories: linux

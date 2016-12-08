@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Installing and configurating Baikal with suPHP"
 date: 2014-04-29 23:15:06 +01:00
 categories: linux

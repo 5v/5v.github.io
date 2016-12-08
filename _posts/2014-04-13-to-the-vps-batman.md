@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "To the VPS, Batman!"
 date: 2014-04-13 21:25:28 +0100
 categories: "news"

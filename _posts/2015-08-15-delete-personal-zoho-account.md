@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How to delete a personal Zoho mail account"
 date: 2015-08-15 19:40:00 +01:00
 categories: email

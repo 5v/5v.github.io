@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Securely erase an external hard drive with DBAN from Windows using VirtualBox"
 date: 2014-05-01 12:49:08 +01:00
 categories: linux windows

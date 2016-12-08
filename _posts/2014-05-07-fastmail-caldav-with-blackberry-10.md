@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "FastMail CalDAV with Blackberry 10"
 date: 2014-05-07 16:40:44 +01:00
 updated: 2014-09-21

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Pesky permalinks"
 date: 2014-04-17 15:42:40 +01:00
 categories: linux
