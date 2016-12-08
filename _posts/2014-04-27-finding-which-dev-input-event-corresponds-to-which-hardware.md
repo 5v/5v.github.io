@@ -1,9 +1,9 @@
-+++
-title = "Finding which /dev/input/event* corresponds to which hardware"
-date = "2014-04-27T17:40:29+01:00"
-categories = [ "linux" ]
-tags = [ "archlinux", "hardware" ]
-+++
+---
+title: "Finding which /dev/input/event* corresponds to which hardware"
+date: 2014-04-27 17:40:29 +01:00
+categories: linux
+tags: archlinux hardware
+---
 I was configuring an Xbox 360 controller in an Arch VM and needed to find out
 which input event it was tied to. Saying this now, I have forgotten the reason
 why, I just remember that it was a critical piece of information that I needed

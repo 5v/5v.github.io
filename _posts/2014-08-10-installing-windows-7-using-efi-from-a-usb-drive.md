@@ -1,9 +1,9 @@
-+++
-title = "Installing Windows 7 using EFI from a USB drive"
-date = "2014-08-10T20:34:36+01:00"
-categories = [ "windows" ]
-tags = [ "boot", "efi", "x220t" ]
-+++
+---
+title: "Installing Windows 7 using EFI from a USB drive"
+date: 2014-08-10 20:34:36 +01:00
+categories: windows
+tags: boot efi x220t
+---
 I fancied installing Windows 7 (64-bit) on the Thinkpad X220T this afternoon,
 and came across a stumbling block – the official Windows 7 USB creator does not
 allow booting with EFI when installing from a USB stick. I decided that there

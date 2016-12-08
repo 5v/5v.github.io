@@ -1,8 +1,8 @@
-+++
-date = "2016-08-07T13:20:14+01:00"
-title = "Building a custom split-keyboard"
+---
+date: 2016-08-07 13:20:14 +01:00"
+title: "Building a custom split-keyboard"
 draft = true
-+++
+---
 
 {{ intro }}
 

@@ -1,9 +1,9 @@
-+++
-title = "Securely erase an external hard drive with DBAN from Windows using VirtualBox"
-date = "2014-05-01T12:49:08+01:00"
-categories = [ "linux", "windows" ]
-tags = [ "dban", "privacy", "virtualbox" ]
-+++
+---
+title: "Securely erase an external hard drive with DBAN from Windows using VirtualBox"
+date: 2014-05-01 12:49:08 +01:00
+categories: linux windows
+tags: dban privacy virtualbox
+---
 This came up purely because I didn’t want to reboot my PC to securly erase an
 external (i.e. non-boot) hard drive. Besides, it would be a waste of a CD-R
 anyway.

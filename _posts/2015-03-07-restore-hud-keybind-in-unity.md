@@ -1,9 +1,9 @@
-+++
-title = "Restore HUD keybind in Unity"
-date = "2015-03-07T00:27:55+01:00"
-categories = [ "linux" ]
-tags = [ "emacs", "hud", "ubuntu", "unity" ]
-+++
+---
+title: "Restore HUD keybind in Unity"
+date: 2015-03-07 00:27:55 +01:00
+categories:linux
+tags: emacs hud ubuntu unity
+---
 Emacs occasionally piques my interest; as a vim user, this could be considered
 "odd", but I like to experiment. During my trials, I often inadvertently
 triggered display of the HUD when using any `meta` shortcut (which in emacs, is

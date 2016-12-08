@@ -1,9 +1,9 @@
-+++
-title = "How to delete a personal Zoho mail account"
-date = "2015-08-15T19:40:00+01:00"
-categories = [ "email" ]
-tags = [ "zoho", "delete account" ]
-+++
+---
+title: "How to delete a personal Zoho mail account"
+date: 2015-08-15 19:40:00 +01:00
+categories: email
+tags: zoho delete account
+---
 Deleting a Zoho account is not a simple one-step process. It *is* however
 logical, so the full deletion steps (for a single-user with a domain email
 account) are as follows:

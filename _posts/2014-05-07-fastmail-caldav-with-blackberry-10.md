@@ -1,10 +1,10 @@
-+++
-title = "FastMail CalDAV with Blackberry 10"
-date = "2014-05-07T16:40:44+01:00"
-updated = "2014-09-21"
-categories = [ "mobile" ]
-tags = [ "blackberry", "fastmail" ]
-+++
+---
+title: "FastMail CalDAV with Blackberry 10"
+date: 2014-05-07 16:40:44 +01:00
+updated: 2014-09-21
+categories: mobile
+tags: blackberry fastmail
+---
 I have used FastMail for my email on and off for quite a long time; "on"
 because it's brilliant – fast, works with everything (more or less) and looks
 good and "off" because I like trying out everything (Gmail, Google Apps,

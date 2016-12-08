@@ -1,8 +1,8 @@
-+++
-title = "Use SLIME REPL for lisp in Emacs"
-date = "2016-04-20T06:34:00+01:00"
-tag = "emacs"
-+++
+---
+title: "Use SLIME REPL for lisp in Emacs"
+date: 2016-04-20 06:34:00 +01:00
+tag: emacs
+---
 To keep a (somewhat) sane Emacs configuration, I use
 [`use-package`][use-package]. When starting to learn Common Lisp, I naturally
 added SLIME to my tool box. Whilst following various Lisp tutorials, I realised

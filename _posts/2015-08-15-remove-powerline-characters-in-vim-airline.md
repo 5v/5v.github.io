@@ -1,9 +1,9 @@
-+++
-title = "Remove powerline characters in vim-airline"
-date = "2015-08-15T18:09:00+01:00"
-categories = [ "linux", "windows" ]
-tags = [ "vim" ]
-+++
+---
+title: "Remove powerline characters in vim-airline"
+date: 2015-08-15 18:09:00 +01:00
+categories: linux windows
+tags: vim
+---
 I can never remember how to remove *all* of the powerline characters with
 [vim-airline][], so here it is for next time I forget.
 

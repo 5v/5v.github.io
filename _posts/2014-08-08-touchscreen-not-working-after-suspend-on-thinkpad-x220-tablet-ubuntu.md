@@ -1,9 +1,10 @@
-+++
-title = "Touchscreen not working after suspend on ThinkPad X220 Tablet (Ubuntu)"
-date = "2014-08-08T20:23:45+01:00"
-categories = [ "linux" ]
-tags = [ "hardware", "touch", "ubuntu", "wacom", "x220t" ]
-+++
+---
+title: "Touchscreen not working after suspend on ThinkPad X220 Tablet (Ubuntu)"
+date: 2014-08-08 20:23:45 +01:00"
+categories: linux
+tags: hardware touch ubuntu wacom x220t
+---
+
 For a few releases of Ubuntu, it has been the case that the touchscreen on my
 X220 Tablet is non-functional after a suspend. It has never bothered me too
 much, but today I decided to have a quick look into the solution.

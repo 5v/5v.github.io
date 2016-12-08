@@ -1,9 +1,9 @@
-+++
-title = "Stop Windows host intercepting Super+L in VirtualBox guest"
-date = "2014-04-20T17:07:09+01:00"
-categories = [ "windows" ]
-tags = [ "virtualbox" ]
-+++
+---
+title: "Stop Windows host intercepting Super+L in VirtualBox guest"
+date: 2014-04-20 17:07:09 +01:00
+categories: windows
+tags:  virtualbox
+---
 I use tiling window managers in Linux quite often. On a physical machine, I
 typically use [Super][] (the "Windows key") as the modifier for the window
 manager I am using (current favourite: [i3][]). To switch between or move

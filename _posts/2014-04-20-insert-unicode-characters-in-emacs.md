@@ -1,9 +1,9 @@
-+++
-title = "Insert unicode characters in Emacs"
-date = "2014-04-20T22:58:36+01:00"
-categories = [ "linux", "windows" ]
-tags = [ "emacs", "vim" ]
-+++
+---
+title: "Insert unicode characters in Emacs"
+date: 2014-04-20 22:58:36 +01:00
+categories: linux windows
+tags: emacs vim
+---
 I've been a vim user for quite a long time. On more than one occasion I have
 attempted to have a proper try at grasping the basics of emacs, and have
 repeatedly failed. Today however was different – I have been using emacs all

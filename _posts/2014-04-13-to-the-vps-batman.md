@@ -1,8 +1,8 @@
-+++
-title = "To the VPS, Batman!"
-date = "2014-04-13T21:25:28+01:00"
-categories = [ "news" ]
-+++
+---
+title: "To the VPS, Batman!"
+date: 2014-04-13 21:25:28 +0100
+categories: "news"
+---
 A new server and a new home – a refreshing move from shared hosting to a VPS.
 
 After a brief fling with a number of flat-file website platforms, I find myself

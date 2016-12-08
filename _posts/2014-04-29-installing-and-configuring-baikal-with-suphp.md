@@ -1,9 +1,9 @@
-+++
-title = "Installing and configurating Baikal with suPHP"
-date = "2014-04-29T23:15:06+01:00"
-categories = [ "linux" ]
-tags = [ "apache", "baikal", "php" ]
-+++
+---
+title: "Installing and configurating Baikal with suPHP"
+date: 2014-04-29 23:15:06 +01:00
+categories: linux
+tags: apache baikal php
+---
 [Baikal][] is a CardDAV and CalDAV server written in PHP. I tested it in a
 local VM, following the installation instructions in the projects Git
 repository and it worked out rather nicely. I did the same thing on my VPS and
