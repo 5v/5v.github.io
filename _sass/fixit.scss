@@ -1,0 +1,154 @@
+// This is imported by assets/main.scss
+
+/**
+ * VARIABLES
+ */
+$content-width: 800px !default;
+
+$spacing-unit: 30px;
+
+$header-spacing-unit: 5px;
+
+$background-color: #111;
+$text-color: #eee;
+$base-font-family: sans-serif;
+
+$highlight-color: #0f0;
+$highlight-font: monospace;
+
+
+
+/**
+ * STYLES
+ */
+
+body {
+    background-color: $background-color;
+    color: $text-color;
+    font-family: $base-font-family;
+}
+
+a {
+    color: $text-color;
+}
+
+header {
+    margin-bottom: 20px;
+    & .wrapper {
+	border-bottom: 1px solid $highlight-color;
+	/* padding: 1px; */
+	padding-top: $header-spacing-unit;
+	padding-bottom: $header-spacing-unit;
+    }
+
+    & * {
+	font-family: $highlight-font;
+    }
+
+    & a {
+	text-decoration: none;
+    }
+}
+
+nav {
+    display: inline-block;
+
+    & li {
+	display: inline-block;
+	margin-left: $header-spacing-unit;
+	margin-right: $header-spacing-unit;
+    }
+}
+
+.wrapper {
+    max-width: $content-width;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.site-title {
+    display: inline-block;
+    font-weight: bold;
+    color: $highlight-color;
+    display: inline-block;
+    margin-right: 2 * $header-spacing-unit;
+}
+
+.post-list {
+    font-size: 0.9em;
+
+    & .post-link {
+	font-variant: small-caps;
+    }
+
+    & h2 {
+	color: $highlight-color;
+    }
+
+    & a {
+	text-decoration: none;
+    }
+
+    & li {
+	width: 50%;
+	border: 1px dashed #aaa;
+	margin: 20px auto;
+	padding: 5px;
+	position: relative;
+    }
+
+    & .post-description {
+	font-size: 0.9em;
+    }
+
+    & .post-meta {
+	color: darken($text-color, 25%);
+	font-size: 0.7em;
+	font-style: italic;
+
+	// FIXME: Gross bodge
+	&.post-tags {
+	    float: right;
+	    margin-top: 5px;
+	}
+
+	&.post-category {
+	    position: absolute;
+	    right: 5px;
+	    top: 5px;
+	}
+    }
+}
+
+/* Home page about here, posts below: */
+
+.post {
+    font-size: 0.9rem;
+
+    & .post-header {
+	text-align: center;
+
+	& h1.post-title {
+	    color: $highlight-color;
+	    font-variant: small-caps;
+	}
+
+	& .post-meta {
+	    color: darken($text-color, 25%);
+	    font-size: 0.7em;
+	    font-style: italic;
+	}
+    }
+
+    & .post-content {
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+
+	& p {
+	    font-size: 0.9em;
+	    line-height: 1.2rem;
+	    margin-bottom: $spacing-unit / 2;
+	}
+    }
+}

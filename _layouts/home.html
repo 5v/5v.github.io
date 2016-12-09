@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li><a href="{{ post.url | relative_url }}"><div>
+        <!--<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>-->
+        <h2 class="post-link">
+            <!-- <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> -->
+            {{ post.title | escape }}
+        </h2>
+	<p class="post-description">{{ post.description | escape }}</p>
+	<span class="post-meta post-date">{{ post.date | date: "%B %Y" }}</span>
+	<span class="post-meta post-tags">
+	    {% for tag in post.tags %}
+	    {{ tag }}{% if forloop.last == false %}, {% endif %}
+	    {% endfor %}
+	</span>
+	<span class="post-meta post-category">
+	    {% if post.categories contains 'linux' %}
+	    <img src="/assets/img/site/linux.png">
+	    {% endif %}
+	    {% if post.categories contains 'windows' %}
+	    <img src="/assets/img/site/windows.png">
+	    {% endif %}
+	    {% if post.categories contains 'osx' %}
+	    <img src="/assets/img/site/apple.png">
+	    {% endif %}
+	</span>
+      </div></a></li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
